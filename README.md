@@ -123,12 +123,16 @@ While the observed increase in evening bike usage (≈44 rides/hour) exceeds the
 4. **Equity Considerations**: Analysis could disadvantage low-demand neighborhoods if bikes are reallocated solely based on peak usage. Mitigation: ensure minimum service levels and equitable distribution policies.
 
 
-## Repository Structure
-
-- **data/**: Raw and processed datasets  
-- **figures/**: Visualizations for EDA and presentation  
-- **notebooks/**: Jupyter Notebooks with analysis code  
-- **slides/**: Stakeholder-ready presentation  
-- **README.md**: Project overview, insights, and detailed results  
+## Repo Navigation 
+```text
+.
+├── data/
+│   ├── hours.csv
+├── figures/
+│   └── (visualizations: graphs)
+├── notebooks/
+│   └── analysis.ipynb
+└── README.md
+ 
 
 
